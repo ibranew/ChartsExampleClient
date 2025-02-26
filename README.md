@@ -1,5 +1,5 @@
 
-#ChartsExampleClient
+# 📡 ChartsExampleClient
 
 Bu proje, **Angular**, **Microsoft SignalR** ve **Highcharts** kullanarak **gerçek zamanlı veri akışı ve görselleştirme** sağlar.
 
